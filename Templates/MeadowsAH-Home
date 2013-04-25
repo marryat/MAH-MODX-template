@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en_GB">
+    <head>
+        [[$MAH-Head]]
+    </head>
+    <body>
+        <div class="container">
+            <div class="mainPage">
+                [[$MAH-Banner]]
+                [[$MAH-Nav]]
+                <div class="row">
+                    <div class="span12 main">
+                        [[*content]]
+                    </div>
+                </div>
+                <div class="row col-wrap">
+                    <div class="span4">
+                        <div class="well col">
+                            [[*MAH-Home-Advert1]]
+                        </div>
+                    </div>
+                    <div class="span4">
+                        <div class="well col">
+                            [[*MAH-Home-Advert2]]
+                        </div>
+                    </div>
+                    <div class="span4">
+                        <div class="well col">
+                            [[*MAH-Home-Advert3]]
+                        </div>
+                    </div>
+                </div>
+                <div class="row base col-wrap">
+                    <div class="span4 col-base">
+                        <div class="well"></div>
+                    </div>
+                    <div class="span4 col-base">
+                        <div class="well"></div>
+                    </div>
+                    <div class="span4 col-base">
+                        <div class="well"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        [[$MAH-Footer]]
+    </body>
+</html>

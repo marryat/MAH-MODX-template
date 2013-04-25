@@ -1,0 +1,4 @@
+<li class="dropdown">
+<a href="[[+wf.link]]" class="dropdown-toggle" data-target="#">[[+wf.linktext]]</a> [[+wf.description]]
+[[+wf.wrapper]]
+</li>

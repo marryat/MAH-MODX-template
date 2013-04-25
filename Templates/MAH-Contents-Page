@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en_GB">
+    <head>
+        [[$MAH-Head]]
+    </head>
+    <body>
+        <div class="container">
+            <div class="mainPage">
+                [[$MAH-Banner]]
+                [[$MAH-Nav]]
+                <div class="row">
+                    <div class="span12 main">
+                        <h1>[[*pagetitle]]</h1>
+                        [[*content]]
+                    </div>
+                </div>
+            </div>
+        </div>
+        [[$MAH-Footer]]
+    </body>
+</html>

@@ -1,0 +1,9 @@
+        <div class="navbar dropdown">
+            <div class="navbar-inner">
+                [[!Wayfinder? 
+                        &startId=`0`
+                        &innerTpl=`MAH-InnerMenu`
+                        &outerClass=`nav`
+                        &parentRowTpl=`MAH-parentRowItem` ]]
+            </div>
+        </div>

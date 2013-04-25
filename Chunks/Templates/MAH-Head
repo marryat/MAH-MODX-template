@@ -1,0 +1,8 @@
+        <meta http-equiv="Content-Type" content="text/html; charset=[[++modx_charset]]" />
+        <title>[[++site_name]]</title>
+        <base href="[[++site_url]]/" />
+
+        <link rel="stylesheet" href="assets/templates/bootstrap/css/bootstrap.min.css" type="text/css">
+        <link rel="stylesheet" href="assets/templates/MeadowsAH/CSS/MAH.css" type="text/css">
+        <script type="text/javascript" src="assets/templates/bootstrap/scripts/jquery-2.0.0.min.js" charset="UTF-8"></script>
+        <script type="text/javascript" src="assets/templates/bootstrap/scripts/bootstrap.min.js" charset="UTF-8"></script>
