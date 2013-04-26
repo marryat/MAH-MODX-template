@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en_GB">
+    <head>
+        [[$MAH-Head]]
+    </head>
+    <body>
+        <div class="container">
+            [[$MAH-Banner]]
+            [[$MAH-Nav]]
+            <div class="row">
+                <div class="span12 main">
+                    [[Breadcrumbs]]
+                    [[*content]]
+                </div>
+            </div>
+            <div class="row">
+                <div class="span10">
+                    <div class="row-fluid col-wrap">
+                        <div class="span6">
+                            <div class="well col">
+                                [[*MAH-Home-Advert1]]
+                            </div>
+                        </div>
+                        <div class="span6">
+                            <div class="well col">
+                                [[*MAH-Home-Advert2]]
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row-fluid base col-wrap">
+                        <div class="span6 col-base">
+                            <div class="well"></div>
+                        </div>
+                        <div class="span6 col-base">
+                            <div class="well"></div>
+                        </div>
+                    </div>
+                    <div class="row-fluid col-wrap">
+                        <div class="span6">
+                            <div class="well col">
+                                [[*MAH-Home-Advert3]]
+                            </div>
+                        </div>
+                        <div class="span6">
+                            <div class="well col">
+                                [[*MAH-Home-Advert4]]
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row-fluid base col-wrap">
+                        <div class="span6 col-base">
+                            <div class="well"></div>
+                        </div>
+                        <div class="span6 col-base">
+                            <div class="well"></div>
+                        </div>                        
+                    </div>
+                </div>
+                <div class="span2">
+                    [[$MAH-OnlineShop]]
+                </div>
+            </div>
+        </div>
+        [[$MAH-Footer]]
+    </body>
+</html>
